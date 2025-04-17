@@ -2,7 +2,7 @@
 
 Hello, I'm Adam. I like messing around with computers & software, low-level systems programming & reverse engineering.
 
-You can find other projects of mine on my [personal Git host](https://git.2khz.xyz/).
+You can find other projects of mine on my [personal Git host](https://git.2khz.xyz/explore/repos).
 
 ## Where to find me
 
