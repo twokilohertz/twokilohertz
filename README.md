@@ -9,4 +9,4 @@ You can find other projects of mine on my [personal Git host](https://git.2khz.x
 - 🌐 **Website**: https://2khz.xyz/
 - 🐦 **Bluesky**: https://bsky.app/profile/2khz.xyz
 - 📺 **YouTube**: https://www.youtube.com/@2khz
-- 🎵 **last.fm**: https://www.last.fm/user/ADAMPOKE111
+- 🎵 **last.fm**: https://www.last.fm/user/twokilohertz
